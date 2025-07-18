@@ -1,2 +1,3 @@
 print("nicklas")
-print("fülkurg")
+print("süüü")
+print("yeasoqw")
